@@ -2,7 +2,7 @@
 ## PenTest Tool & Auto Web Exploiter
 <img src="https://media.discordapp.net/attachments/1049878112235687936/1061373094285025330/logo.png"></img>
 
-## WARNING: This is not a script kiddie tool! Usage requires detailed knowledge of the vulnerability, a thorough understand of the functionality available in the affected RDBMS, and the ability to write Python. The good news is that it is highly configurable.
+## WARNING: This is not a script kiddie tool! Usage requires detailed knowledge of the vulnerability, a thorough understand of the functionality available in metasploit and alot of knowledge in pentesting! If you dont' know what you are doing, dont' do anything!
 
 ## Description
 HellXSploit is a PenTest Tool and web auto vulnerability exploiter using unreleased exploits.
